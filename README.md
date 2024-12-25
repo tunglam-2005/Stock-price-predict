@@ -37,11 +37,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/tunglam-2005/Stock-price-predict.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd Stock-price-predict
-   ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
