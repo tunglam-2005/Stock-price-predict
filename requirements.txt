@@ -1,5 +1,5 @@
 streamlit==1.26.0
 pandas==2.0.3
 numpy==1.24.3
-joblib==1.4.1
+joblib>=1.4.0
 yfinance==0.2.28
