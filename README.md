@@ -37,11 +37,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/tunglam-2005/Stock-price-predict.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd Stock-price-predict
-   ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
@@ -52,7 +48,11 @@ To set up the project locally, follow these steps:
 3. Modify parameters as needed to experiment with different models or datasets.
 4. Run Python file within `Stock price predict app` folder to open the web app:
    ```bash
-   Streamlit run Stock price predict app.py
+   Streamlit run Stock_price_predict_app.py
+   ```
+   Or can go to this link to try this web app:
+   ```bash
+   https://stock-price-predict-jzmn3mpvk8ufpuenybvfkw.streamlit.app/
    ```
 
 ## Data Sources
