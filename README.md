@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 1. Open the Jupyter Notebook file located in the `notebooks` directory.
 2. Run the cells sequentially to execute data preprocessing, model training, and prediction tasks.
 3. Modify parameters as needed to experiment with different models or datasets.
-4. Run Python file within `Stock price predict app` folder to open the web app:
+4. Run Python file within to open the web app:
    ```bash
    Streamlit run Stock_price_predict_app.py
    ```
